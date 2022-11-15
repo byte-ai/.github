@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="byte-ai.jpg" alt="logo banner">
+  <img src="byte-ai.jpg" alt="logo banner" width="700">
   <br>
 </p>
 
