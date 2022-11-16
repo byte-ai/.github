@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="byte-ai.jpg" alt="logo banner" width="700">
+  <img src="https://raw.githubusercontent.com/byte-ai/.github/main/profile/byte-ai.jpg" alt="logo banner" width="700">
   <br>
 </p>
 
