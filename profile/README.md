@@ -4,4 +4,4 @@
 </p>
 
 ## Tentang Byte.AI
-Byte.AI adalah sebuah komunitas kecil yang membahas artificial intelligence yang berbasis di Makassar.
+Byte.AI adalah sebuah komunitas kecil yang membahas artificial intelligence yang berbasis di Makassar. Ingin bergabung atau kerja sama, hubungi <a href="mailto:byte.ai.contact@gmail.com">kami
